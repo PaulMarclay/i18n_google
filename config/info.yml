@@ -1,0 +1,15 @@
+# Plugin information
+name: "I18n"
+description: "Plugin para internacionalizacion, origen de datos, el servicio de traduccion de Google."
+version: "2.0"
+framework_version: "2.0"
+dependencies: ""
+notes: ""
+# Author information
+author: "Paul Marclay"
+email: "paul.eduardo.marclay@gmail.com"
+site: ""
+# Legal information
+company: "Dolem Labs"
+copyright: "(c) 2012 - Paul Marclay"
+license: "GNU GENERAL PUBLIC LICENSE"

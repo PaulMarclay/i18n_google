@@ -1,0 +1,10 @@
+app:
+  enabled: '0'
+  name: 'i18n.'
+  description: 'Plugin para internacionalizacion.'
+  company: Facon
+  site: null
+  author: 'Paul Marclay'
+  copyright: null
+  license: null
+  version: 0.0.3
